@@ -1,5 +1,5 @@
 {
-    "name": "cerbero/query-filters",
+    "name": "simonworkhouse/query-filters",
     "type": "library",
     "description": "Laravel package to filter data based on the query string.",
     "keywords": [
